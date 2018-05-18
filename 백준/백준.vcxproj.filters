@@ -36,5 +36,14 @@
     <ClCompile Include="2741 N찍기.cpp">
       <Filter>소스 파일\기초</Filter>
     </ClCompile>
+    <ClCompile Include="2839 설탕배달.cpp">
+      <Filter>소스 파일\기초</Filter>
+    </ClCompile>
+    <ClCompile Include="2920 음계.cpp">
+      <Filter>소스 파일\기초</Filter>
+    </ClCompile>
+    <ClCompile Include="4344 평균은 넘겠지.cpp">
+      <Filter>소스 파일\기초</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
