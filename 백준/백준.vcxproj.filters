@@ -54,5 +54,8 @@
     <ClCompile Include="9498 시험성적.cpp">
       <Filter>소스 파일\기초</Filter>
     </ClCompile>
+    <ClCompile Include="10039 평균 점수.cpp">
+      <Filter>소스 파일\기초</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
