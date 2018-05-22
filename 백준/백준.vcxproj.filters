@@ -48,5 +48,8 @@
     <ClCompile Include="4673 셀프넘버.cpp">
       <Filter>소스 파일\기초</Filter>
     </ClCompile>
+    <ClCompile Include="8393 합.cpp">
+      <Filter>소스 파일\기초</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
