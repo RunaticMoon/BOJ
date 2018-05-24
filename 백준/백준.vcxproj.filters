@@ -63,5 +63,11 @@
     <ClCompile Include="10871 X보다 작은 수.cpp">
       <Filter>소스 파일\기초</Filter>
     </ClCompile>
+    <ClCompile Include="11718 그대로 출력하기.cpp">
+      <Filter>소스 파일\기초</Filter>
+    </ClCompile>
+    <ClCompile Include="11720 숫자의 합.cpp">
+      <Filter>소스 파일\기초</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
