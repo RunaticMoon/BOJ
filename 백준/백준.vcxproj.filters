@@ -69,5 +69,8 @@
     <ClCompile Include="11720 숫자의 합.cpp">
       <Filter>소스 파일\기초</Filter>
     </ClCompile>
+    <ClCompile Include="11721 열 개씩 끊어 출력하기.cpp">
+      <Filter>소스 파일\기초</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
