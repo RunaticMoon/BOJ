@@ -16,6 +16,9 @@
     <Filter Include="소스 파일\기초">
       <UniqueIdentifier>{a98a85c7-c92c-491a-8769-10ed3f1934c1}</UniqueIdentifier>
     </Filter>
+    <Filter Include="소스 파일\문자열">
+      <UniqueIdentifier>{eef57358-7394-4873-8e4f-4fb7e793e663}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="1924 2007년.cpp">
@@ -74,6 +77,9 @@
     </ClCompile>
     <ClCompile Include="15552 빠른 A+B.cpp">
       <Filter>소스 파일\기초</Filter>
+    </ClCompile>
+    <ClCompile Include="1152 단어의 개수.cpp">
+      <Filter>소스 파일\문자열</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>
