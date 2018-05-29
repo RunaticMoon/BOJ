@@ -102,5 +102,8 @@
     <ClCompile Include="5622 다이얼.cpp">
       <Filter>소스 파일\문자열</Filter>
     </ClCompile>
+    <ClCompile Include="8958 OX퀴즈.cpp">
+      <Filter>소스 파일\문자열</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
