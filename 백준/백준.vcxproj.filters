@@ -99,5 +99,8 @@
     <ClCompile Include="3033 가장 긴 문자열.cpp">
       <Filter>소스 파일\문자열</Filter>
     </ClCompile>
+    <ClCompile Include="5622 다이얼.cpp">
+      <Filter>소스 파일\문자열</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
