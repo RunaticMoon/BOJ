@@ -19,6 +19,9 @@
     <Filter Include="소스 파일\문자열">
       <UniqueIdentifier>{eef57358-7394-4873-8e4f-4fb7e793e663}</UniqueIdentifier>
     </Filter>
+    <Filter Include="소스 파일\KMP">
+      <UniqueIdentifier>{2e090029-cc39-4d99-ae90-3919062b680b}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="1924 2007년.cpp">
@@ -110,6 +113,9 @@
     </ClCompile>
     <ClCompile Include="11654 아스키 코드.cpp">
       <Filter>소스 파일\문자열</Filter>
+    </ClCompile>
+    <ClCompile Include="1786 찾기.cpp">
+      <Filter>소스 파일\KMP</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>
