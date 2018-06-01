@@ -28,6 +28,9 @@
     <Filter Include="소스 파일\Disjoint-set%28Union Find%29">
       <UniqueIdentifier>{c320f635-c1d3-4b5e-af19-db5a1bbbe00a}</UniqueIdentifier>
     </Filter>
+    <Filter Include="소스 파일\Divide &amp; Conquer">
+      <UniqueIdentifier>{a0038dc9-c7e6-4ec7-92da-ddd390dc921c}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="1924 2007년.cpp">
@@ -128,6 +131,9 @@
     </ClCompile>
     <ClCompile Include="11724 연결 요소의 개수.cpp">
       <Filter>소스 파일\Disjoint-set%28Union Find%29</Filter>
+    </ClCompile>
+    <ClCompile Include="1629 곱셈.cpp">
+      <Filter>소스 파일\Divide &amp; Conquer</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>
