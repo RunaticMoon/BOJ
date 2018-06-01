@@ -25,6 +25,9 @@
     <Filter Include="소스 파일\BFS &amp; DFS">
       <UniqueIdentifier>{aa8db5b5-7cef-4580-baa1-659b329fc6da}</UniqueIdentifier>
     </Filter>
+    <Filter Include="소스 파일\Disjoint-set%28Union Find%29">
+      <UniqueIdentifier>{c320f635-c1d3-4b5e-af19-db5a1bbbe00a}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="1924 2007년.cpp">
@@ -122,6 +125,9 @@
     </ClCompile>
     <ClCompile Include="2468 안전영역N.cpp">
       <Filter>소스 파일\BFS &amp; DFS</Filter>
+    </ClCompile>
+    <ClCompile Include="11724 연결 요소의 개수.cpp">
+      <Filter>소스 파일\Disjoint-set%28Union Find%29</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>
