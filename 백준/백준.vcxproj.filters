@@ -22,6 +22,9 @@
     <Filter Include="소스 파일\KMP">
       <UniqueIdentifier>{2e090029-cc39-4d99-ae90-3919062b680b}</UniqueIdentifier>
     </Filter>
+    <Filter Include="소스 파일\BFS &amp; DFS">
+      <UniqueIdentifier>{aa8db5b5-7cef-4580-baa1-659b329fc6da}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="1924 2007년.cpp">
@@ -116,6 +119,9 @@
     </ClCompile>
     <ClCompile Include="1786 찾기.cpp">
       <Filter>소스 파일\KMP</Filter>
+    </ClCompile>
+    <ClCompile Include="2468 안전영역N.cpp">
+      <Filter>소스 파일\BFS &amp; DFS</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>
