@@ -31,6 +31,9 @@
     <Filter Include="소스 파일\Divide &amp; Conquer">
       <UniqueIdentifier>{a0038dc9-c7e6-4ec7-92da-ddd390dc921c}</UniqueIdentifier>
     </Filter>
+    <Filter Include="소스 파일\Two Pointer &amp; Sliding Window">
+      <UniqueIdentifier>{0d45cf99-857f-4e90-90af-7db60e954322}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="1924 2007년.cpp">
@@ -134,6 +137,9 @@
     </ClCompile>
     <ClCompile Include="1629 곱셈.cpp">
       <Filter>소스 파일\Divide &amp; Conquer</Filter>
+    </ClCompile>
+    <ClCompile Include="2096 내려가기.cpp">
+      <Filter>소스 파일\Two Pointer &amp; Sliding Window</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>
