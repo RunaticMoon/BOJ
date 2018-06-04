@@ -141,5 +141,8 @@
     <ClCompile Include="2096 내려가기.cpp">
       <Filter>소스 파일\Two Pointer &amp; Sliding Window</Filter>
     </ClCompile>
+    <ClCompile Include="2470 두 용액.cpp">
+      <Filter>소스 파일\Two Pointer &amp; Sliding Window</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
