@@ -153,5 +153,8 @@
     <ClCompile Include="2618 경찰차.cpp">
       <Filter>소스 파일\DP</Filter>
     </ClCompile>
+    <ClCompile Include="11051 이항 계수 2.cpp">
+      <Filter>소스 파일\DP</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
