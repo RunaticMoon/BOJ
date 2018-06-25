@@ -37,6 +37,9 @@
     <Filter Include="소스 파일\DP">
       <UniqueIdentifier>{f576f2fb-2ff9-40db-8d71-bca30736e437}</UniqueIdentifier>
     </Filter>
+    <Filter Include="소스 파일\수학">
+      <UniqueIdentifier>{5c5a2c6c-7c2f-4aa7-99ec-17e391f6af6a}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="1924 2007년.cpp">
@@ -158,6 +161,9 @@
     </ClCompile>
     <ClCompile Include="11401 이항 계수 3.cpp">
       <Filter>소스 파일\DP</Filter>
+    </ClCompile>
+    <ClCompile Include="1111 IQ Test.cpp">
+      <Filter>소스 파일\수학</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>
