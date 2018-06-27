@@ -165,5 +165,8 @@
     <ClCompile Include="1111 IQ Test.cpp">
       <Filter>소스 파일\수학</Filter>
     </ClCompile>
+    <ClCompile Include="9506 약수들의 합.cpp">
+      <Filter>소스 파일\수학</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
