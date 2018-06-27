@@ -174,5 +174,8 @@
     <ClCompile Include="1476 날짜 계산.cpp">
       <Filter>소스 파일\수학</Filter>
     </ClCompile>
+    <ClCompile Include="2293 동전 1F.cpp">
+      <Filter>소스 파일\DP</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
