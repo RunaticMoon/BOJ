@@ -46,6 +46,9 @@
     <Filter Include="소스 파일\Brute-force">
       <UniqueIdentifier>{aeb49172-5aba-43fb-8ed7-45f9fbd173af}</UniqueIdentifier>
     </Filter>
+    <Filter Include="소스 파일\Greedy">
+      <UniqueIdentifier>{7875bc6a-02ef-4e27-a1b9-fb99cb32ec75}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="1924 2007년.cpp">
@@ -188,6 +191,9 @@
     </ClCompile>
     <ClCompile Include="2309 일곱 난쟁이.cpp">
       <Filter>소스 파일\Brute-force</Filter>
+    </ClCompile>
+    <ClCompile Include="4796 캠핑.cpp">
+      <Filter>소스 파일\Greedy</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>
