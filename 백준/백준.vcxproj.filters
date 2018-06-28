@@ -40,6 +40,9 @@
     <Filter Include="소스 파일\수학">
       <UniqueIdentifier>{5c5a2c6c-7c2f-4aa7-99ec-17e391f6af6a}</UniqueIdentifier>
     </Filter>
+    <Filter Include="소스 파일\기하">
+      <UniqueIdentifier>{eedae927-011d-4eb7-8455-c1678d331a11}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="1924 2007년.cpp">
@@ -176,6 +179,9 @@
     </ClCompile>
     <ClCompile Include="2293 동전 1F.cpp">
       <Filter>소스 파일\DP</Filter>
+    </ClCompile>
+    <ClCompile Include="11563 연돌이와 고잠녀F.cpp">
+      <Filter>소스 파일\기하</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>
