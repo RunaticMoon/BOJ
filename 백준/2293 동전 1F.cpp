@@ -1,44 +1,45 @@
 #include <iostream>
-#include <vector>
 #include <cstring>
 using namespace std;
 
-int dp[10001];
-vector<int> coin;
-
-int func(int n) {
-	if (n < 0) return 0;
-	if (n == 0) return 1;
-
-	int &ret = dp[n];
-	if (ret != -1) return ret;
-	
-	int sum = INT_MAX;
-	for (auto i : coin) {
-		sum += func(n - i);
-	}
-
-	return ret = sum;
-}
-
+int dp[101][10001];
+int coin[101];
 
 int main() {
-	int n, k, a;
-	memset(dp, -1, sizeof(dp));
+	int n, k;
 
 	cin >> n >> k;
 
 	for (int i = 0; i < n; ++i) {
-		cin >> a;
-		coin.push_back(a);
+		cin >> coin[i];
 	}
 
-	cout << func(k) << endl;
-
-	for (int i = 0; i < 11; ++i) {
-		cout << dp[i] << ' ';
+	for (int i = 0; i <= k; ++i) {
+		int& ret = dp[0][i];
+		if (i % coin[0] == 0) {
+			ret = 1;
+		}
+		else {
+			ret = 0;
+		}
 	}
-	
-	system("pause >> null");
+
+	for (int i = 1; i < n; ++i) {
+		dp[i][0] = 1;
+		for (int j = 1; j <= k; ++j) {
+			int& ret = dp[i][j];
+
+			ret = 0;
+
+			for (int l = 0; l <= i; ++l) {
+				if (j - coin[l] >= 0) {
+					ret += dp[l][j - coin[l]];
+				}
+			}
+		}
+	}
+
+	cout << dp[n - 1][k];
+
 	return 0;
 }
