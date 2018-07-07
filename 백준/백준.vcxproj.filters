@@ -49,6 +49,12 @@
     <Filter Include="소스 파일\Greedy">
       <UniqueIdentifier>{7875bc6a-02ef-4e27-a1b9-fb99cb32ec75}</UniqueIdentifier>
     </Filter>
+    <Filter Include="소스 파일\Binary Search">
+      <UniqueIdentifier>{ff28c74c-0384-4cc2-a8ab-565fc6c51dbb}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\Queue">
+      <UniqueIdentifier>{4a51b431-64f1-44a7-b7b4-605970e4bb9b}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="1924 2007년.cpp">
@@ -200,6 +206,9 @@
     </ClCompile>
     <ClCompile Include="10448 유레카 이론.cpp">
       <Filter>소스 파일\Brute-force</Filter>
+    </ClCompile>
+    <ClCompile Include="2164 카드2.cpp">
+      <Filter>소스 파일\Queue</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>
