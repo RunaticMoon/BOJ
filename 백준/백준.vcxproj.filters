@@ -210,5 +210,8 @@
     <ClCompile Include="2164 카드2.cpp">
       <Filter>소스 파일\Queue</Filter>
     </ClCompile>
+    <ClCompile Include="1051 숫자 정사각형.cpp">
+      <Filter>소스 파일\Brute-force</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
