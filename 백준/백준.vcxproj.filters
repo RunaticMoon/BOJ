@@ -222,5 +222,13 @@
     <ClCompile Include="12096  .cpp">
       <Filter>소스 파일\넌센스</Filter>
     </ClCompile>
+    <ClCompile Include="1967 트리의 지름F.cpp">
+      <Filter>소스 파일\BFS &amp; DFS</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <Text Include="input.txt">
+      <Filter>소스 파일\BFS &amp; DFS</Filter>
+    </Text>
   </ItemGroup>
 </Project>
