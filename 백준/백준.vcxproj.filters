@@ -246,6 +246,9 @@
     <ClCompile Include="2178 미로탐색.cpp">
       <Filter>소스 파일\BFS &amp; DFS</Filter>
     </ClCompile>
+    <ClCompile Include="1389 케빈 베이컨의 6단계 법칙.cpp">
+      <Filter>소스 파일\BFS &amp; DFS</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <Text Include="input.txt">
