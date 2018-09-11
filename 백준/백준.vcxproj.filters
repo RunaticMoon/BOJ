@@ -58,6 +58,9 @@
     <Filter Include="소스 파일\넌센스">
       <UniqueIdentifier>{92c5841d-70fc-4e04-96a0-7e4b0ea55a06}</UniqueIdentifier>
     </Filter>
+    <Filter Include="소스 파일\Backtracking">
+      <UniqueIdentifier>{77badc69-5c94-466c-9f84-f4f09b99dc3f}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="1924 2007년.cpp">
@@ -133,9 +136,6 @@
       <Filter>소스 파일\문자열</Filter>
     </ClCompile>
     <ClCompile Include="2941 크로아티아 알파벳.cpp">
-      <Filter>소스 파일\문자열</Filter>
-    </ClCompile>
-    <ClCompile Include="3033 가장 긴 문자열.cpp">
       <Filter>소스 파일\문자열</Filter>
     </ClCompile>
     <ClCompile Include="5622 다이얼.cpp">
@@ -237,10 +237,13 @@
     <ClCompile Include="1182 부분집합의 합.cpp">
       <Filter>소스 파일\Brute-force</Filter>
     </ClCompile>
+    <ClCompile Include="2580 스도쿠F.cpp">
+      <Filter>소스 파일\Backtracking</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <Text Include="input.txt">
-      <Filter>소스 파일\BFS &amp; DFS</Filter>
+      <Filter>소스 파일</Filter>
     </Text>
   </ItemGroup>
 </Project>
