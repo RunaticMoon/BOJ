@@ -61,6 +61,9 @@
     <Filter Include="소스 파일\Backtracking">
       <UniqueIdentifier>{77badc69-5c94-466c-9f84-f4f09b99dc3f}</UniqueIdentifier>
     </Filter>
+    <Filter Include="소스 파일\LinkedList">
+      <UniqueIdentifier>{e46cd666-8248-47f0-b612-42fbe50debc3}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="1924 2007년.cpp">
@@ -251,6 +254,9 @@
     </ClCompile>
     <ClCompile Include="1012 유기농 배추F.cpp">
       <Filter>소스 파일\BFS &amp; DFS</Filter>
+    </ClCompile>
+    <ClCompile Include="1158 조세퍼스 문제.cpp">
+      <Filter>소스 파일\LinkedList</Filter>
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
