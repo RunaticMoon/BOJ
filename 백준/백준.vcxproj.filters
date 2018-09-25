@@ -258,6 +258,9 @@
     <ClCompile Include="1158 조세퍼스 문제.cpp">
       <Filter>소스 파일\LinkedList</Filter>
     </ClCompile>
+    <ClCompile Include="9663 N-QueenF.cpp">
+      <Filter>소스 파일\Backtracking</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <Text Include="input.txt">
