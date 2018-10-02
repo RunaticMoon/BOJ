@@ -267,6 +267,9 @@
     <ClCompile Include="1976 여행가자.cpp">
       <Filter>소스 파일\Disjoint-set%28Union Find%29</Filter>
     </ClCompile>
+    <ClCompile Include="1021 회전하는 큐.cpp">
+      <Filter>소스 파일\Queue</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <Text Include="input.txt">
