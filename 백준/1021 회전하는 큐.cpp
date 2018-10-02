@@ -38,8 +38,10 @@ public:
 		_size++;
 	}
 	T pop() {
-		if (empty())
+		if (empty()) {
 			cout << "pop을 할 수 없습니다." << endl;
+			return;
+		}
 
 		Node* temp = head;
 		head = temp->next;

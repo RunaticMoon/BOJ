@@ -64,6 +64,9 @@
     <Filter Include="소스 파일\LinkedList">
       <UniqueIdentifier>{e46cd666-8248-47f0-b612-42fbe50debc3}</UniqueIdentifier>
     </Filter>
+    <Filter Include="소스 파일\Stack">
+      <UniqueIdentifier>{9ee6b4e4-53c8-4f46-a33d-f42bb0af0a60}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="1924 2007년.cpp">
