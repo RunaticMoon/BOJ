@@ -273,6 +273,9 @@
     <ClCompile Include="1021 회전하는 큐.cpp">
       <Filter>소스 파일\Queue</Filter>
     </ClCompile>
+    <ClCompile Include="9012 괄호.cpp">
+      <Filter>소스 파일\Stack</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <Text Include="input.txt">
