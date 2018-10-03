@@ -276,6 +276,9 @@
     <ClCompile Include="9012 괄호.cpp">
       <Filter>소스 파일\Stack</Filter>
     </ClCompile>
+    <ClCompile Include="1918 후위표기식.cpp">
+      <Filter>소스 파일\Stack</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <Text Include="input.txt">
