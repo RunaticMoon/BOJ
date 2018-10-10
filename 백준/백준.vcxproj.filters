@@ -67,6 +67,9 @@
     <Filter Include="소스 파일\Stack">
       <UniqueIdentifier>{9ee6b4e4-53c8-4f46-a33d-f42bb0af0a60}</UniqueIdentifier>
     </Filter>
+    <Filter Include="소스 파일\Tree">
+      <UniqueIdentifier>{9acb1c62-da7e-458a-b26d-df64688fb5b0}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="1924 2007년.cpp">
@@ -278,6 +281,9 @@
     </ClCompile>
     <ClCompile Include="1918 후위표기식.cpp">
       <Filter>소스 파일\Stack</Filter>
+    </ClCompile>
+    <ClCompile Include="1991 트리 순회.cpp">
+      <Filter>소스 파일\Tree</Filter>
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
