@@ -70,6 +70,9 @@
     <Filter Include="소스 파일\Tree">
       <UniqueIdentifier>{9acb1c62-da7e-458a-b26d-df64688fb5b0}</UniqueIdentifier>
     </Filter>
+    <Filter Include="소스 파일\Binary Search Tree">
+      <UniqueIdentifier>{f06593d3-efed-46f2-b681-66478e00c19f}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="1924 2007년.cpp">
@@ -284,6 +287,9 @@
     </ClCompile>
     <ClCompile Include="1991 트리 순회.cpp">
       <Filter>소스 파일\Tree</Filter>
+    </ClCompile>
+    <ClCompile Include="1449 수리공 항승.cpp">
+      <Filter>소스 파일\Greedy</Filter>
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
