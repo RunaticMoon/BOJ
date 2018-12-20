@@ -297,6 +297,9 @@
     <ClCompile Include="1931 회의실배정.cpp">
       <Filter>소스 파일\Greedy</Filter>
     </ClCompile>
+    <ClCompile Include="11000 강의실 배정.cpp">
+      <Filter>소스 파일\Greedy</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <Text Include="input.txt">
