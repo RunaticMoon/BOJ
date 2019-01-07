@@ -2,32 +2,25 @@
 using namespace std;
 
 int main() {
-	int L, P, V, day;
+	int L, P, V;
+	int count = 0;
 
-	for (int T = 1;; T++) {
+	for (int i = 1;; i++, count = 0) {
 		cin >> L >> P >> V;
 
-		if (L == 0 && P == 0 && V == 0)
-			break;
+		if (L == 0 && P == 0 && V == 0) break;
 
-		day = 0;
-		while (V > 0) {
-			if (V - P >= 0) {
+		while (V != 0) {
+			if (V >= P) {
+				count += L;
 				V -= P;
-				day += L;
 			}
 			else {
-				if (V > L) {
-					day += L;
-				}
-				else {
-					day += V;
-				}
+				count += (V >= L) ? L : V;
 				V = 0;
 			}
 		}
-
-		cout << "Case " << T << ": " << day << endl;
+		cout << "Case " << i << ": " << count << endl;
 	}
 
 	return 0;
