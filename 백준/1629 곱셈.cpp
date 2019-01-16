@@ -19,6 +19,20 @@ int main() {
 
 	cin >> a >> b >> c;
 
+	/*
+		sum = 1;
+
+		while (b > 0) {
+			if (b % 2 != 0) {
+				sum *= a;
+				sum %= c;
+			}
+			a *= a;
+			a %= c;
+			b /= 2;
+		}
+	*/
+
 	cout << mul(a, b, c);
 
 	return 0;
