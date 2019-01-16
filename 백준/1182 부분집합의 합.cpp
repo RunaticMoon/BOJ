@@ -9,7 +9,7 @@ int result = 0;
 
 void func(vector<int> list) {
 	int sum = 0;
-	for (auto i : list) {
+	for (int& i : list) {
 		sum += arr[i];
 	}
 	
@@ -17,12 +17,10 @@ void func(vector<int> list) {
 		result++;
 	}
 
-	for (int i = list.back(); i < N; i++) {
-		if (find(list.begin(), list.end(), i) == list.end()) {
-			vector<int> temp(list);
-			temp.push_back(i);
-			func(temp);
-		}
+	for (int i = *list.rbegin() + 1; i < N; i++) {
+		vector<int> temp(list);
+		temp.push_back(i);
+		func(temp);
 	}
 }
 
