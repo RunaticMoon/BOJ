@@ -333,6 +333,9 @@
     <ClCompile Include="11279 최대 힙.cpp">
       <Filter>소스 파일\Heap</Filter>
     </ClCompile>
+    <ClCompile Include="1927 최소 힙.cpp">
+      <Filter>소스 파일\Heap</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <Text Include="input.txt">
