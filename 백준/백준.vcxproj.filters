@@ -73,6 +73,12 @@
     <Filter Include="소스 파일\Binary Search Tree">
       <UniqueIdentifier>{f06593d3-efed-46f2-b681-66478e00c19f}</UniqueIdentifier>
     </Filter>
+    <Filter Include="소스 파일\Priority Queue">
+      <UniqueIdentifier>{49c3d0d5-0bae-441f-b2db-a1a2c95eb166}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\Heap">
+      <UniqueIdentifier>{7e6abb3a-528f-48f9-8811-af2370485dce}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="1924 2007년.cpp">
@@ -323,6 +329,9 @@
     </ClCompile>
     <ClCompile Include="10828 스택.cpp">
       <Filter>소스 파일\Stack</Filter>
+    </ClCompile>
+    <ClCompile Include="11279 최대 힙.cpp">
+      <Filter>소스 파일\Heap</Filter>
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
