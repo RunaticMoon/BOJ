@@ -76,9 +76,6 @@
     <Filter Include="소스 파일\Priority Queue">
       <UniqueIdentifier>{49c3d0d5-0bae-441f-b2db-a1a2c95eb166}</UniqueIdentifier>
     </Filter>
-    <Filter Include="소스 파일\Heap">
-      <UniqueIdentifier>{7e6abb3a-528f-48f9-8811-af2370485dce}</UniqueIdentifier>
-    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="1924 2007년.cpp">
@@ -330,16 +327,16 @@
     <ClCompile Include="10828 스택.cpp">
       <Filter>소스 파일\Stack</Filter>
     </ClCompile>
-    <ClCompile Include="11279 최대 힙.cpp">
-      <Filter>소스 파일\Heap</Filter>
+    <ClCompile Include="2075 N번째 큰 수.cpp">
+      <Filter>소스 파일\Priority Queue</Filter>
     </ClCompile>
-    <ClCompile Include="1927 최소 힙.cpp">
-      <Filter>소스 파일\Heap</Filter>
+    <ClCompile Include="11279 최대 힙.cpp">
+      <Filter>소스 파일\Priority Queue</Filter>
     </ClCompile>
     <ClCompile Include="1715 카드 정렬하기.cpp">
-      <Filter>소스 파일\Heap</Filter>
+      <Filter>소스 파일\Priority Queue</Filter>
     </ClCompile>
-    <ClCompile Include="2075 N번째 큰 수.cpp">
+    <ClCompile Include="1927 최소 힙.cpp">
       <Filter>소스 파일\Priority Queue</Filter>
     </ClCompile>
   </ItemGroup>

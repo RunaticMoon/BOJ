@@ -19,7 +19,7 @@ int main() {
 				cout << pq.top() << "\n";
 				pq.pop();
 			}
-		}
+		} 
 		else {
 			pq.push(v);
 		}

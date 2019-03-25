@@ -15,7 +15,7 @@ int main() {
 		cin >> a;
 		pq.push(a);
 	}
-
+	 
 	if (N == 1) {
 		sum = 0;
 		pq.pop();
