@@ -339,6 +339,9 @@
     <ClCompile Include="1927 최소 힙.cpp">
       <Filter>소스 파일\Priority Queue</Filter>
     </ClCompile>
+    <ClCompile Include="1874 스택 수열.cpp">
+      <Filter>소스 파일\Stack</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <Text Include="input.txt">
