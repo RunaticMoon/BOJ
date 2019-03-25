@@ -339,6 +339,9 @@
     <ClCompile Include="1715 카드 정렬하기.cpp">
       <Filter>소스 파일\Heap</Filter>
     </ClCompile>
+    <ClCompile Include="2075 N번째 큰 수.cpp">
+      <Filter>소스 파일\Priority Queue</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <Text Include="input.txt">
