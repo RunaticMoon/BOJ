@@ -4,6 +4,10 @@
 # null file
 null
 
+# input / output file
+input.txt
+output.txt
+
 # User-specific files
 *.suo
 *.user
