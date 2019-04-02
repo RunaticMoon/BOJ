@@ -351,6 +351,9 @@
     <ClCompile Include="2644 촌수계산.cpp">
       <Filter>소스 파일\BFS &amp; DFS</Filter>
     </ClCompile>
+    <ClCompile Include="6593 상범 빌딩.cpp">
+      <Filter>소스 파일\BFS &amp; DFS</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <Text Include="input.txt">
