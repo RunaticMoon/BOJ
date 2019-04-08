@@ -249,9 +249,6 @@
     <ClCompile Include="9465 스티커.cpp">
       <Filter>소스 파일\DP</Filter>
     </ClCompile>
-    <ClCompile Include="1182 부분집합의 합.cpp">
-      <Filter>소스 파일\Brute-force</Filter>
-    </ClCompile>
     <ClCompile Include="2580 스도쿠F.cpp">
       <Filter>소스 파일\Backtracking</Filter>
     </ClCompile>
@@ -353,6 +350,9 @@
     </ClCompile>
     <ClCompile Include="6593 상범 빌딩.cpp">
       <Filter>소스 파일\BFS &amp; DFS</Filter>
+    </ClCompile>
+    <ClCompile Include="1182 부분수의 합.cpp">
+      <Filter>소스 파일\Brute-force</Filter>
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
