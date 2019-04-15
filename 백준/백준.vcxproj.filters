@@ -360,6 +360,9 @@
     <ClCompile Include="2250 트리의 높이와 너비.cpp">
       <Filter>소스 파일\Tree</Filter>
     </ClCompile>
+    <ClCompile Include="2696 중앙값 구하기.cpp">
+      <Filter>소스 파일\Priority Queue</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <Text Include="input.txt">
