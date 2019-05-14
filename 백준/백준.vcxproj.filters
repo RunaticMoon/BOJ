@@ -76,6 +76,12 @@
     <Filter Include="소스 파일\Greedy">
       <UniqueIdentifier>{7875bc6a-02ef-4e27-a1b9-fb99cb32ec75}</UniqueIdentifier>
     </Filter>
+    <Filter Include="소스 파일\대회">
+      <UniqueIdentifier>{f2a779d0-bf4f-426e-9e24-169db2a2fa72}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\대회\IUPC 2018">
+      <UniqueIdentifier>{b20b422e-7837-4b4e-8936-8f9aebbf61eb}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="1924 2007년.cpp">
@@ -365,6 +371,9 @@
     </ClCompile>
     <ClCompile Include="10844 쉬운 계단 수.cpp">
       <Filter>소스 파일\DP</Filter>
+    </ClCompile>
+    <ClCompile Include="15780 멀티탭 충분하니.cpp">
+      <Filter>소스 파일\대회\IUPC 2018</Filter>
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
