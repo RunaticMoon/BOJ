@@ -46,9 +46,6 @@
     <Filter Include="소스 파일\Brute-force">
       <UniqueIdentifier>{aeb49172-5aba-43fb-8ed7-45f9fbd173af}</UniqueIdentifier>
     </Filter>
-    <Filter Include="소스 파일\Greedy">
-      <UniqueIdentifier>{7875bc6a-02ef-4e27-a1b9-fb99cb32ec75}</UniqueIdentifier>
-    </Filter>
     <Filter Include="소스 파일\Binary Search">
       <UniqueIdentifier>{ff28c74c-0384-4cc2-a8ab-565fc6c51dbb}</UniqueIdentifier>
     </Filter>
@@ -75,6 +72,9 @@
     </Filter>
     <Filter Include="소스 파일\Priority Queue">
       <UniqueIdentifier>{49c3d0d5-0bae-441f-b2db-a1a2c95eb166}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\Greedy">
+      <UniqueIdentifier>{7875bc6a-02ef-4e27-a1b9-fb99cb32ec75}</UniqueIdentifier>
     </Filter>
   </ItemGroup>
   <ItemGroup>
@@ -362,6 +362,9 @@
     </ClCompile>
     <ClCompile Include="2696 중앙값 구하기.cpp">
       <Filter>소스 파일\Priority Queue</Filter>
+    </ClCompile>
+    <ClCompile Include="10844 쉬운 계단 수.cpp">
+      <Filter>소스 파일\DP</Filter>
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
