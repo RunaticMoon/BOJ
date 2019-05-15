@@ -174,9 +174,6 @@
     <ClCompile Include="1786 찾기.cpp">
       <Filter>소스 파일\KMP</Filter>
     </ClCompile>
-    <ClCompile Include="2468 안전영역N.cpp">
-      <Filter>소스 파일\BFS &amp; DFS</Filter>
-    </ClCompile>
     <ClCompile Include="11724 연결 요소의 개수.cpp">
       <Filter>소스 파일\Disjoint-set%28Union Find%29</Filter>
     </ClCompile>
@@ -243,9 +240,6 @@
     <ClCompile Include="12096  .cpp">
       <Filter>소스 파일\넌센스</Filter>
     </ClCompile>
-    <ClCompile Include="1967 트리의 지름F.cpp">
-      <Filter>소스 파일\BFS &amp; DFS</Filter>
-    </ClCompile>
     <ClCompile Include="1002 터렛.cpp">
       <Filter>소스 파일\기하</Filter>
     </ClCompile>
@@ -262,9 +256,6 @@
       <Filter>소스 파일\BFS &amp; DFS</Filter>
     </ClCompile>
     <ClCompile Include="1389 케빈 베이컨의 6단계 법칙.cpp">
-      <Filter>소스 파일\BFS &amp; DFS</Filter>
-    </ClCompile>
-    <ClCompile Include="1012 유기농 배추F.cpp">
       <Filter>소스 파일\BFS &amp; DFS</Filter>
     </ClCompile>
     <ClCompile Include="1158 조세퍼스 문제.cpp">
@@ -380,6 +371,15 @@
     </ClCompile>
     <ClCompile Include="9663 N-Queen%28F%29.cpp">
       <Filter>소스 파일\Backtracking</Filter>
+    </ClCompile>
+    <ClCompile Include="1012 유기농 배추%28F%29.cpp">
+      <Filter>소스 파일\BFS &amp; DFS</Filter>
+    </ClCompile>
+    <ClCompile Include="1967 트리의 지름%28F%29.cpp">
+      <Filter>소스 파일\BFS &amp; DFS</Filter>
+    </ClCompile>
+    <ClCompile Include="2468 안전영역%28F%29.cpp">
+      <Filter>소스 파일\BFS &amp; DFS</Filter>
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
