@@ -381,6 +381,9 @@
     <ClCompile Include="11563 연돌이와 고잠녀%28F%29.cpp">
       <Filter>소스 파일\기하</Filter>
     </ClCompile>
+    <ClCompile Include="15784 전투진서.cpp">
+      <Filter>소스 파일\대회\IUPC 2018</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <Text Include="input.txt">
