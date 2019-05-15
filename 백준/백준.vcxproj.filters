@@ -210,9 +210,6 @@
     <ClCompile Include="1476 날짜 계산.cpp">
       <Filter>소스 파일\수학</Filter>
     </ClCompile>
-    <ClCompile Include="11563 연돌이와 고잠녀F.cpp">
-      <Filter>소스 파일\기하</Filter>
-    </ClCompile>
     <ClCompile Include="2309 일곱 난쟁이.cpp">
       <Filter>소스 파일\Brute-force</Filter>
     </ClCompile>
@@ -380,6 +377,9 @@
     </ClCompile>
     <ClCompile Include="2293 동전 1%28F%29.cpp">
       <Filter>소스 파일\DP</Filter>
+    </ClCompile>
+    <ClCompile Include="11563 연돌이와 고잠녀%28F%29.cpp">
+      <Filter>소스 파일\기하</Filter>
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
