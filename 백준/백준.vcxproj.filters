@@ -387,6 +387,9 @@
     <ClCompile Include="15786 Send me the money.cpp">
       <Filter>소스 파일\대회\IUPC 2018</Filter>
     </ClCompile>
+    <ClCompile Include="15787 기차가 어둠을 헤치고 은하수를.cpp">
+      <Filter>소스 파일\대회\IUPC 2018</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <Text Include="input.txt">
