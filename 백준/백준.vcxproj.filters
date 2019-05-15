@@ -378,6 +378,9 @@
     <ClCompile Include="15781 헬멧과 조끼.cpp">
       <Filter>소스 파일\대회\IUPC 2018</Filter>
     </ClCompile>
+    <ClCompile Include="15782 Calculate! 2%28F%29.cpp">
+      <Filter>소스 파일\대회\IUPC 2018</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <Text Include="input.txt">
