@@ -300,9 +300,6 @@
     <ClCompile Include="13904 과제.cpp">
       <Filter>소스 파일\Greedy</Filter>
     </ClCompile>
-    <ClCompile Include="2104 부분배열 고르기F.cpp">
-      <Filter>소스 파일\Divide &amp; Conquer</Filter>
-    </ClCompile>
     <ClCompile Include="1700 멀티탭 스케줄링.cpp">
       <Filter>소스 파일\Greedy</Filter>
     </ClCompile>
@@ -380,6 +377,9 @@
     </ClCompile>
     <ClCompile Include="2468 안전영역%28F%29.cpp">
       <Filter>소스 파일\BFS &amp; DFS</Filter>
+    </ClCompile>
+    <ClCompile Include="2104 부분배열 고르기%28F%29.cpp">
+      <Filter>소스 파일\Divide &amp; Conquer</Filter>
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
