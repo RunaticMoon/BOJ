@@ -390,6 +390,9 @@
     <ClCompile Include="15787 기차가 어둠을 헤치고 은하수를.cpp">
       <Filter>소스 파일\대회\IUPC 2018</Filter>
     </ClCompile>
+    <ClCompile Include="15789 CTP 왕국은 한솔 왕국을 이길 수 있을까.cpp">
+      <Filter>소스 파일\대회\IUPC 2018</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <Text Include="input.txt">
