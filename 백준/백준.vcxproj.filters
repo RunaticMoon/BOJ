@@ -393,6 +393,9 @@
     <ClCompile Include="15789 CTP 왕국은 한솔 왕국을 이길 수 있을까.cpp">
       <Filter>소스 파일\대회\IUPC 2018</Filter>
     </ClCompile>
+    <ClCompile Include="15791 세진이의 미팅.cpp">
+      <Filter>소스 파일\대회\IUPC 2018</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <Text Include="input.txt">
