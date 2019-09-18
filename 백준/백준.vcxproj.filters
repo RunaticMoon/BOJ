@@ -420,4 +420,12 @@
       <Filter>소스 파일</Filter>
     </Text>
   </ItemGroup>
+  <ItemGroup>
+    <None Include="init.snippet">
+      <Filter>리소스 파일</Filter>
+    </None>
+    <None Include="inittc.snippet">
+      <Filter>리소스 파일</Filter>
+    </None>
+  </ItemGroup>
 </Project>

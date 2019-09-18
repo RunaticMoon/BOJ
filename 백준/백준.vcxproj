@@ -408,6 +408,10 @@
     <Text Include="input.txt" />
     <Text Include="output.txt" />
   </ItemGroup>
+  <ItemGroup>
+    <None Include="init.snippet" />
+    <None Include="inittc.snippet" />
+  </ItemGroup>
   <PropertyGroup Label="Globals">
     <VCProjectVersion>15.0</VCProjectVersion>
     <ProjectGuid>{7265C850-A980-4398-B553-8F0DC30022CF}</ProjectGuid>
