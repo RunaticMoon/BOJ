@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <CodeSnippet Format="1.0.0" xmlns="http://schemas.microsoft.com/VisualStudio/2005/CodeSnippet">
   <Header>
-    <Title>알고리즘용 기본 템플릿</Title>
+    <Title>알고리즘용 기본 템플릿 with 테스트케이스</Title>
     <Author>bean</Author>
-    <Shortcut>inittc</Shortcut>
+    <Shortcut>initc</Shortcut>
     <Description>알고리즘용 테스트 케이스가 있는 기본 템플릿</Description>
     <SnippetTypes>
       <SnippetType>SurroundsWith</SnippetType>
@@ -18,8 +18,7 @@
       </Literal>
     </Declarations>
     <Code Language="cpp">
-      <![CDATA[
-      #include <iostream>
+      <![CDATA[#include <iostream>
       using namespace std;
       
       int T;
@@ -31,12 +30,11 @@
 
         cin >> T;
         for(int test_case = 1; test_case <= T; test_case++) {
-          $selected$
+          $end$
         }
 
 	      return 0;
-      }
-      $end$]]>
+      }]]>
     </Code>
   </Snippet>
 </CodeSnippet>

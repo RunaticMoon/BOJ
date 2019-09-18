@@ -411,6 +411,9 @@
     <ClCompile Include="5214 환승.cpp">
       <Filter>소스 파일\BFS &amp; DFS</Filter>
     </ClCompile>
+    <ClCompile Include="10950 A+B - 3.cpp">
+      <Filter>소스 파일\기초</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <Text Include="input.txt">
@@ -424,7 +427,7 @@
     <None Include="init.snippet">
       <Filter>리소스 파일</Filter>
     </None>
-    <None Include="inittc.snippet">
+    <None Include="initc.snippet">
       <Filter>리소스 파일</Filter>
     </None>
   </ItemGroup>
