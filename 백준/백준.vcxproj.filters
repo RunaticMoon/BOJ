@@ -420,6 +420,9 @@
     <ClCompile Include="11365 !밀비 급일.cpp">
       <Filter>소스 파일\문자열</Filter>
     </ClCompile>
+    <ClCompile Include="2902 KMP는 왜 KMP일까.cpp">
+      <Filter>소스 파일\문자열</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <Text Include="input.txt">
