@@ -13,21 +13,25 @@
   <Snippet>
     <Declarations>
       <Literal>
-        <ID>type</ID>
-        <Default>int</Default>
-      </Literal>
-      <Literal>
         <ID>outer_loop</ID>
         <Default>N</Default>
+      </Literal>
+      <Literal>
+        <ID>outer_index</ID>
+        <Default>i</Default>
       </Literal>
       <Literal>
         <ID>inner_loop</ID>
         <Default>M</Default>
       </Literal>
+      <Literal>
+        <ID>inner_index</ID>
+        <Default>j</Default>
+      </Literal>
     </Declarations>
     <Code Language="cpp">
-      <![CDATA[for($type$ i = 0; i < $outer_loop$; i++) {
-        for($type$ j = 0; j < $inner_loop$; j++) {
+      <![CDATA[for(int $outer_index$ = 0; $outer_index$ < $outer_loop$; $outer_index$++) {
+        for(int $inner_index$ = 0; $inner_index$ < $inner_loop$; $inner_index$++) {
           $end$
         }
       }]]>
