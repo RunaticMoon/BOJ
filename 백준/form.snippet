@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<CodeSnippet Format="1.0.0" xmlns="http://schemas.microsoft.com/VisualStudio/2005/CodeSnippet">
+  <Header>
+    <Title>좌표를 도는 이중for문</Title>
+    <Author>bean</Author>
+    <Shortcut>form</Shortcut>
+    <Description>N과 M까지 도는 이중 for문</Description>
+    <SnippetTypes>
+      <SnippetType>SurroundsWith</SnippetType>
+      <SnippetType>Expansion</SnippetType>
+    </SnippetTypes>
+  </Header>
+  <Snippet>
+    <Declarations>
+      <Literal>
+        <ID>type</ID>
+        <Default>int</Default>
+      </Literal>
+      <Literal>
+        <ID>outer_loop</ID>
+        <Default>N</Default>
+      </Literal>
+      <Literal>
+        <ID>inner_loop</ID>
+        <Default>M</Default>
+      </Literal>
+    </Declarations>
+    <Code Language="cpp">
+      <![CDATA[for($type$ i = 0; i < $outer_loop$; i++) {
+        for($type$ j = 0; j < $inner_loop$; j++) {
+          $end$
+        }
+      }]]>
+    </Code>
+  </Snippet>
+</CodeSnippet>
