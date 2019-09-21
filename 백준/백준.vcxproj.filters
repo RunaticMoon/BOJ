@@ -426,6 +426,9 @@
     <ClCompile Include="1018 체스판 다시 칠하기.cpp">
       <Filter>소스 파일\Brute-force</Filter>
     </ClCompile>
+    <ClCompile Include="1107 리모컨.cpp">
+      <Filter>소스 파일\Brute-force</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <Text Include="input.txt">
@@ -445,5 +448,10 @@
     <None Include="form.snippet">
       <Filter>리소스 파일</Filter>
     </None>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="logs.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
   </ItemGroup>
 </Project>
