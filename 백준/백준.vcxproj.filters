@@ -429,6 +429,9 @@
     <ClCompile Include="1107 리모컨.cpp">
       <Filter>소스 파일\Brute-force</Filter>
     </ClCompile>
+    <ClCompile Include="1786 찾기(R).cpp">
+      <Filter>소스 파일\KMP</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <Text Include="input.txt">
