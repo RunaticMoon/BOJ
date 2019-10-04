@@ -82,6 +82,9 @@
     <Filter Include="소스 파일\대회\IUPC 2018">
       <UniqueIdentifier>{b20b422e-7837-4b4e-8936-8f9aebbf61eb}</UniqueIdentifier>
     </Filter>
+    <Filter Include="소스 파일\Trie">
+      <UniqueIdentifier>{00c4de55-2a58-4b6d-8b00-69916fa9a027}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="1924 2007년.cpp">
@@ -434,6 +437,9 @@
     </ClCompile>
     <ClCompile Include="4354 문자열 제곱.cpp">
       <Filter>소스 파일\KMP</Filter>
+    </ClCompile>
+    <ClCompile Include="5052 전화번호 목록.cpp">
+      <Filter>소스 파일\Trie</Filter>
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
