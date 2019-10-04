@@ -432,6 +432,9 @@
     <ClCompile Include="1786 찾기(R).cpp">
       <Filter>소스 파일\KMP</Filter>
     </ClCompile>
+    <ClCompile Include="4354 문자열 제곱.cpp">
+      <Filter>소스 파일\KMP</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <Text Include="input.txt">
