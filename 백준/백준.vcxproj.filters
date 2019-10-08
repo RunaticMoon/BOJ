@@ -447,6 +447,9 @@
     <ClCompile Include="1436 영화감독 숌.cpp">
       <Filter>소스 파일\Brute-force</Filter>
     </ClCompile>
+    <ClCompile Include="10171 고양이.cpp">
+      <Filter>소스 파일\기초</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <Text Include="input.txt">
