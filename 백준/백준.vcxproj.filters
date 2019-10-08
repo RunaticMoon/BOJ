@@ -471,6 +471,9 @@
     <ClCompile Include="10951 A+B - 4.cpp">
       <Filter>소스 파일\기초</Filter>
     </ClCompile>
+    <ClCompile Include="10818 최소, 최대.cpp">
+      <Filter>소스 파일\기초</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <Text Include="input.txt">
