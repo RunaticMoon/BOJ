@@ -85,6 +85,9 @@
     <Filter Include="소스 파일\Trie">
       <UniqueIdentifier>{00c4de55-2a58-4b6d-8b00-69916fa9a027}</UniqueIdentifier>
     </Filter>
+    <Filter Include="소스 파일\함수 구현">
+      <UniqueIdentifier>{bd80de31-a8b6-46bf-a63e-11a67d26ca33}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="1924 2007년.cpp">
@@ -479,6 +482,9 @@
     </ClCompile>
     <ClCompile Include="3052 나머지.cpp">
       <Filter>소스 파일\기초</Filter>
+    </ClCompile>
+    <ClCompile Include="15596 정수 N개의 합.cpp">
+      <Filter>소스 파일\함수 구현</Filter>
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
