@@ -489,12 +489,15 @@
     <ClCompile Include="10872 팩토리얼.cpp">
       <Filter>소스 파일\기초</Filter>
     </ClCompile>
+    <ClCompile Include="2447 별 찍기 - 10.cpp">
+      <Filter>소스 파일\Divide &amp; Conquer</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
-    <Text Include="input.txt">
+    <Text Include="output.txt">
       <Filter>소스 파일</Filter>
     </Text>
-    <Text Include="output.txt">
+    <Text Include="input.txt">
       <Filter>소스 파일</Filter>
     </Text>
   </ItemGroup>
