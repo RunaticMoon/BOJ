@@ -16,9 +16,6 @@
     <Filter Include="소스 파일\기초">
       <UniqueIdentifier>{a98a85c7-c92c-491a-8769-10ed3f1934c1}</UniqueIdentifier>
     </Filter>
-    <Filter Include="소스 파일\문자열">
-      <UniqueIdentifier>{eef57358-7394-4873-8e4f-4fb7e793e663}</UniqueIdentifier>
-    </Filter>
     <Filter Include="소스 파일\KMP">
       <UniqueIdentifier>{2e090029-cc39-4d99-ae90-3919062b680b}</UniqueIdentifier>
     </Filter>
@@ -87,6 +84,9 @@
     </Filter>
     <Filter Include="소스 파일\함수 구현">
       <UniqueIdentifier>{bd80de31-a8b6-46bf-a63e-11a67d26ca33}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\문자열">
+      <UniqueIdentifier>{eef57358-7394-4873-8e4f-4fb7e793e663}</UniqueIdentifier>
     </Filter>
   </ItemGroup>
   <ItemGroup>
@@ -508,6 +508,9 @@
       <Filter>소스 파일\수학</Filter>
     </ClCompile>
     <ClCompile Include="2869 달팽이는 올라가고 싶다.cpp">
+      <Filter>소스 파일\수학</Filter>
+    </ClCompile>
+    <ClCompile Include="10250 ACM 호텔.cpp">
       <Filter>소스 파일\수학</Filter>
     </ClCompile>
   </ItemGroup>
