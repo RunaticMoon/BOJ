@@ -504,6 +504,9 @@
     <ClCompile Include="1193 분수찾기.cpp">
       <Filter>소스 파일\수학</Filter>
     </ClCompile>
+    <ClCompile Include="1011 Fly me to the Alpha Centauri.cpp">
+      <Filter>소스 파일\수학</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <Text Include="output.txt">
