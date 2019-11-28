@@ -37,4 +37,4 @@ int main() {
 		cout << sum << '\n' << minN;
 
 	return 0;
-}
+} 
