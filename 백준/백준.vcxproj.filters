@@ -540,6 +540,9 @@
     <ClCompile Include="1085 직사각형에서 탈출.cpp">
       <Filter>소스 파일\수학</Filter>
     </ClCompile>
+    <ClCompile Include="3009 네 번째 점.cpp">
+      <Filter>소스 파일\수학</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <Text Include="output.txt">
