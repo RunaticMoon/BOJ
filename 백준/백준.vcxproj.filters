@@ -537,6 +537,9 @@
     <ClCompile Include="9020 골드바흐의 추측.cpp">
       <Filter>소스 파일\Erathos</Filter>
     </ClCompile>
+    <ClCompile Include="1085 직사각형에서 탈출.cpp">
+      <Filter>소스 파일\수학</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <Text Include="output.txt">
