@@ -555,6 +555,9 @@
     <ClCompile Include="2798 블랙잭.cpp">
       <Filter>소스 파일\Brute-force</Filter>
     </ClCompile>
+    <ClCompile Include="7568 덩치.cpp">
+      <Filter>소스 파일\Brute-force</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <Text Include="output.txt">
