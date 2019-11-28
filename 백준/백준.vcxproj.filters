@@ -91,6 +91,9 @@
     <Filter Include="소스 파일\Erathos">
       <UniqueIdentifier>{9e4f3a42-dcbf-4357-9f63-0373e0679deb}</UniqueIdentifier>
     </Filter>
+    <Filter Include="소스 파일\Sorting">
+      <UniqueIdentifier>{79d6d934-5551-45ed-b392-f8042a2e911a}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="1924 2007년.cpp">
@@ -557,6 +560,9 @@
     </ClCompile>
     <ClCompile Include="7568 덩치.cpp">
       <Filter>소스 파일\Brute-force</Filter>
+    </ClCompile>
+    <ClCompile Include="2750 수 정렬하기.cpp">
+      <Filter>소스 파일\Sorting</Filter>
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
