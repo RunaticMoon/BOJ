@@ -585,6 +585,9 @@
     <ClCompile Include="11650 좌표 정렬하기.cpp">
       <Filter>소스 파일\Sorting</Filter>
     </ClCompile>
+    <ClCompile Include="11651 좌표 정렬하기 2.cpp">
+      <Filter>소스 파일\Sorting</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <Text Include="output.txt">
