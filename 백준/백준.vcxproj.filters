@@ -375,9 +375,6 @@
     <ClCompile Include="2580 스도쿠%28F%29.cpp">
       <Filter>소스 파일\Backtracking</Filter>
     </ClCompile>
-    <ClCompile Include="9663 N-Queen%28F%29.cpp">
-      <Filter>소스 파일\Backtracking</Filter>
-    </ClCompile>
     <ClCompile Include="1012 유기농 배추%28F%29.cpp">
       <Filter>소스 파일\BFS &amp; DFS</Filter>
     </ClCompile>
@@ -604,6 +601,9 @@
       <Filter>소스 파일\Backtracking</Filter>
     </ClCompile>
     <ClCompile Include="15652 N과 M (4).cpp">
+      <Filter>소스 파일\Backtracking</Filter>
+    </ClCompile>
+    <ClCompile Include="9663 N-Queen.cpp">
       <Filter>소스 파일\Backtracking</Filter>
     </ClCompile>
   </ItemGroup>
