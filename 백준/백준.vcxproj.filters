@@ -372,9 +372,6 @@
     <ClCompile Include="15782 Calculate! 2%28F%29.cpp">
       <Filter>소스 파일\대회\IUPC 2018</Filter>
     </ClCompile>
-    <ClCompile Include="2580 스도쿠%28F%29.cpp">
-      <Filter>소스 파일\Backtracking</Filter>
-    </ClCompile>
     <ClCompile Include="1012 유기농 배추%28F%29.cpp">
       <Filter>소스 파일\BFS &amp; DFS</Filter>
     </ClCompile>
@@ -604,6 +601,9 @@
       <Filter>소스 파일\Backtracking</Filter>
     </ClCompile>
     <ClCompile Include="9663 N-Queen.cpp">
+      <Filter>소스 파일\Backtracking</Filter>
+    </ClCompile>
+    <ClCompile Include="2580 스도쿠.cpp">
       <Filter>소스 파일\Backtracking</Filter>
     </ClCompile>
   </ItemGroup>
