@@ -97,6 +97,9 @@
     <Filter Include="소스 파일\MST">
       <UniqueIdentifier>{fa9ea251-865c-48ef-b238-e8137e1b14e8}</UniqueIdentifier>
     </Filter>
+    <Filter Include="소스 파일\LIS">
+      <UniqueIdentifier>{473969ad-060d-4dda-80bd-384a8e7be98f}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="1924 2007년.cpp">
@@ -635,6 +638,9 @@
     </ClCompile>
     <ClCompile Include="2156 포도주 시식.cpp">
       <Filter>소스 파일\DP</Filter>
+    </ClCompile>
+    <ClCompile Include="11053 가장 긴 증가하는 부분 수열.cpp">
+      <Filter>소스 파일\LIS</Filter>
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
