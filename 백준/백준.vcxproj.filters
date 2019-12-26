@@ -657,6 +657,9 @@
     <ClCompile Include="1912 연속합.cpp">
       <Filter>소스 파일\DP</Filter>
     </ClCompile>
+    <ClCompile Include="12865 평범한 배낭.cpp">
+      <Filter>소스 파일\DP</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <Text Include="output.txt">
