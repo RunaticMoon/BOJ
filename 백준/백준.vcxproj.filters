@@ -654,6 +654,9 @@
     <ClCompile Include="9251 LCS.cpp">
       <Filter>소스 파일\LCS</Filter>
     </ClCompile>
+    <ClCompile Include="1912 연속합.cpp">
+      <Filter>소스 파일\DP</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <Text Include="output.txt">
