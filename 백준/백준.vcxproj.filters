@@ -642,6 +642,9 @@
     <ClCompile Include="11053 가장 긴 증가하는 부분 수열.cpp">
       <Filter>소스 파일\LIS</Filter>
     </ClCompile>
+    <ClCompile Include="11054 가장 긴 바이토닉 부분 수열.cpp">
+      <Filter>소스 파일\LIS</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <Text Include="output.txt">
