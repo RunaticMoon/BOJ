@@ -696,6 +696,9 @@
     <ClCompile Include="2004 조합 0의 개수.cpp">
       <Filter>소스 파일\수학</Filter>
     </ClCompile>
+    <ClCompile Include="10773 제로.cpp">
+      <Filter>소스 파일\Stack</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <Text Include="output.txt">
