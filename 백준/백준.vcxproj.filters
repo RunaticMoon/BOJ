@@ -666,6 +666,9 @@
     <ClCompile Include="1541 잃어버린 괄호.cpp">
       <Filter>소스 파일\Greedy</Filter>
     </ClCompile>
+    <ClCompile Include="5086 배수와 약수.cpp">
+      <Filter>소스 파일\수학</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <Text Include="output.txt">
