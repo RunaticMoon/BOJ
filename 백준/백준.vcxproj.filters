@@ -711,6 +711,9 @@
     <ClCompile Include="1966 프린터 큐.cpp">
       <Filter>소스 파일\Queue</Filter>
     </ClCompile>
+    <ClCompile Include="10866 덱.cpp">
+      <Filter>소스 파일\Queue</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <Text Include="output.txt">
