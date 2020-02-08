@@ -717,6 +717,9 @@
     <ClCompile Include="5430 AC.cpp">
       <Filter>소스 파일\Queue</Filter>
     </ClCompile>
+    <ClCompile Include="18258 큐 2.cpp">
+      <Filter>소스 파일\Queue</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <Text Include="output.txt">
