@@ -726,6 +726,9 @@
     <ClCompile Include="1992 쿼드트리.cpp">
       <Filter>소스 파일\Divide &amp; Conquer</Filter>
     </ClCompile>
+    <ClCompile Include="1780 종이의 개수.cpp">
+      <Filter>소스 파일\Divide &amp; Conquer</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <Text Include="output.txt">
